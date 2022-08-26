@@ -1,7 +1,7 @@
 # Hi there 👋
 ## About me:
-I switched to IT industry and step by step I develop my skills in Automation Testing. <br />
-I am well motivated and consistent. I like to collaborate and learn new stuff.
+🔍 I switched to IT industry and step by step I develop my skills in Automation Testing. <br />
+🌱 I am well motivated and consistent. I like to collaborate and learn new stuff
 ## Reach me:
 https://www.linkedin.com/in/beata-kapinos/
 ## Technologies:
