@@ -1,16 +1,21 @@
 ### Hi there 👋
+### About me:
+# I switched to IT industry and step by step I develop my skills in Automation Testing. 
+# I am well motivated and consistent. I like to collaborate and learn new stuff.
+### Reach me:
+# https://www.linkedin.com/in/beata-kapinos/
+### Technologies:
+# Selenium, Cypress
+# C#, JavaScript, Python
+# SQL 
+# HTML, CSS
+# Git
+# Azure DevOps, Jira, Confluence
 
-<!--
-**beata-kapinos/beata-kapinos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### After work: 
+## 👩‍🍳🚲🥊🧘🏻‍♀️🌄🐱
+## Dreams: 
+# Travel to Central Asia
+# Go back to Sarek National Park (Sweden)
+# Learn new language
+# Share my welfare with someone in need
