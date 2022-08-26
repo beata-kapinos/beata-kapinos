@@ -3,19 +3,19 @@
 I switched to IT industry and step by step I develop my skills in Automation Testing. <br />
 I am well motivated and consistent. I like to collaborate and learn new stuff.
 ## Reach me:
-### https://www.linkedin.com/in/beata-kapinos/
+https://www.linkedin.com/in/beata-kapinos/
 ## Technologies:
-### Selenium, Cypress
-### C#, JavaScript, Python
-### SQL 
-### HTML, CSS
-### Git
-### Azure DevOps, Jira, Confluence
+Selenium, Cypress <br />
+C#, JavaScript, Python <br />
+SQL <br />
+HTML, CSS <br />
+Git <br />
+Azure DevOps, Jira, Confluence <br />
 
 ## After work: 
-### 👩‍🍳🚲🥊🧘🏻‍♀️🌄🐱
+👩‍🍳🚲🥊🧘🏻‍♀️🌄🐱
 ## Dreams: 
-### Travel to Central Asia
-### Go back to Sarek National Park (Sweden)
-### Learn new language
-### Share my welfare with someone in need
+🎯 Travel to Central Asia
+🎯 Go back to Sarek National Park (Sweden)
+🎯 Learn new language
+🎯 Share my welfare with someone in need
