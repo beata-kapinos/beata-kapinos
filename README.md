@@ -1,6 +1,6 @@
 ## About me:
 🔍 I switched to IT industry and step by step I develop my skills in Automation Testing. <br />
-🌱 I am well motivated and consistent. I like to collaborate and learn new stuff
+🌱 I am well motivated and consistent. I like to collaborate and learn new stuff.
 ## Reach me:
 https://www.linkedin.com/in/beata-kapinos/
 ## Technologies:
@@ -16,5 +16,5 @@ Azure DevOps, Jira, Confluence <br />
 ## Dreams: 
 🎯 Travel to Central Asia
 🎯 Go back to Sarek National Park (Sweden)
-🎯 Learn new language
+🎯 Learn a new language
 🎯 Share my welfare with someone in need
